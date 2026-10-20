@@ -321,6 +321,7 @@ the Linear equation $`y = mx + b`$
 Write **math in markdown**: $E = mc^2$, $\pi \approx 3.14159$, $x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$
 
 **Display Math Equations**:
+
 $$
 \lim_{h \to 0} \frac{f(x + h) - f(x)}{h} = f'(x)
 $$
